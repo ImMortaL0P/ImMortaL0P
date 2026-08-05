@@ -20,7 +20,7 @@ I'm a Mechanical Engineering graduate with a CS minor, possessing a strong stati
 - 🌱 I’m currently learning more about **Advanced Data Analysis & Machine Learning**
 - 👯 I’m looking to collaborate on **Data Engineering, Analytics, and Open Source Node.js/Python projects**
 - 💬 Ask me about **SQL, Python, Power BI, Node.js, and Process Automation**
-- ⚡ Fun fact: I have mentored over 30 students in graphic design!
+- ⚡ Fun fact: I led my college's table tennis team and have mentored over 30 students in graphic design!
 
 ---
 
@@ -47,8 +47,8 @@ I'm a Mechanical Engineering graduate with a CS minor, possessing a strong stati
 ## 📊 GitHub Analytics (Interactive Dashboard)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImMortaL0P&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImMortaL0P&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ImMortaL0P&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=ImMortaL0P&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
 </div>
 
 <div align="center">
